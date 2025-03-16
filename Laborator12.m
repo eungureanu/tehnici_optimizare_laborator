@@ -1,3 +1,5 @@
+clc; clear;
+
 %Task 3 Laborator: Compuneti functii cu un singur minim local (de ex: o functie care reprezinta o sfera, un paraboloid) 
 %cu functii trigonometrice si analizati-le minimele.
 
